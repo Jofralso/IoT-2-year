@@ -114,4 +114,3 @@ Claro, vou compilar a bibliografia com todos os recursos adicionados em cada aul
   1. [Project Management Basics](https://www.cio.com/article/287755/project-management-tips-what-is-a-project-plan.html)
   2. [Choosing a Data-Driven IoT Project](https://www.iotcentral.io/blog/choose-a-data-driven-iot-project)
 
-kjavbkjadbvkadbjhcvjhadsbjhv
