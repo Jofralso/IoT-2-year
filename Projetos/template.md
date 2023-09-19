@@ -1,13 +1,13 @@
 # Group Project Title
 
 ## Team Members
-- [Member 1](link_to_profile_1)
-- [Member 2](link_to_profile_2)
-- [Member 3](link_to_profile_3)
+- [Joao Ferreira](link_to_profile_1)
+- [Miguel Rodrigues](link_to_profile_2)
+- [Jose Pereira](link_to_profile_3)
 - ...
 
 ## Project Overview
-Brief description of the project and its objectives.
+Orquestracao de sensores (oculos com camara) 
 
 ## Project Tasks and Responsibilities
 - **Task 1:**
