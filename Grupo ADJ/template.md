@@ -1,13 +1,13 @@
 # Group Project Title
 
 ## Team Members
-- [Ângelo Nogueira](link_to_profile_1)
-- [António Almeida](link_to_profile_2)
-- [Rafael Paulo](link_to_profile_3)
-- [Rodrigo Cardoso](link_to_profile_4)
+- [Alexandre Oliveira](link_to_profile_1)
+- [Daniel Ferreira](link_to_profile_2)
+- [Júlio Guerreiro](link_to_profile_3)
+
 
 ## Project Overview
-Este projeto consiste na elaboração de um trabalho de pentesting.
+Sensor de Poluição sonoro
 
 ## Project Tasks and Responsibilities
 - **Task 1:**
