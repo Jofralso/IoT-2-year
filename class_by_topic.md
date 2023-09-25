@@ -8,7 +8,7 @@
 - **Atividades:**
   - Discussão sobre exemplos práticos de IoT.
 
-  ### Aula 2: Tecnologias de Cloud para IoT
+### Aula 2: Tecnologias de Cloud para IoT
   - **Objetivos:**
     - Compreender o papel da Cloud na IoT.
   - **Conteúdo:**
