@@ -1,13 +1,13 @@
 # Group Project Title
 
 ## Team Members
-- [Name 1](link_to_profile_1)
-- [Name 2](link_to_profile_2)
-- [Name 3](link_to_profile_3)
+- [David](link_to_profile_1)
+- [Pedro](link_to_profile_2)
+- [Joaquim](link_to_profile_3)
 - ...
 
 ## Project Overview
-**Project description**
+**Implantar sensores em todas as portas de um edificio para calcular quantas pessoas se encontram dentro dele**
 
 ## Project Tasks and Responsibilities
 - **Task 1:**
