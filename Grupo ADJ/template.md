@@ -7,7 +7,7 @@
 
 
 ## Project Overview
-Sensor de Poluição sonoro
+O objetivo deste projeto é criar um sensor de poluição sonora, onde possamos medir o som em um determinado locais e registar o valor em um display, que quando estiver com os dB muito elevados vai aparecer no display os dB e se é um nivel baixo médio ou alto. Para captar os dB vamos utilizar um sensor microfone, vamos utilizar tambem uma ESP8266 NodeMCU Board, uma protoboard e um lcd module.
 
 ## Project Tasks and Responsibilities
 - **Task 1:**
