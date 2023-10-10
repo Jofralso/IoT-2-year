@@ -8,6 +8,7 @@
 
 ## Project Overview
 Este projeto consiste na elaboração de um trabalho de envio de logs mais importantes e especifico capturados para o telemóvel.
+Iremos utilizar um sensor de cartão SD para termos uma maneira fisica para armazenar os logs. Será utilizado um display LCD para mostrar. Através do MQTT iremos realizar um push das notificações para o telemóvel.
 
 ## Project Tasks and Responsibilities
 - **Task 1:**
