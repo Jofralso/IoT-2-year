@@ -7,7 +7,8 @@
 - ...
 
 ## Project Overview
-**Implantar sensores em todas as portas de um edificio para calcular quantas pessoas se encontram dentro dele**
+**Num certo edificio, irao existir dois sensores em cada porta. A partir destes sensores vai ser possivel detetar monitorizar a atividade no interior da loja, tal como as entradas e saídas. A partir de outros sensores, será possível monitorizar os niveis de CO2, temperatura, entre outros. Será criado um sistema de alarme, que será despuletado, inicialmente através da movimentacao do sensor exterior à loja, emitindo de seguida um aviso a informar a existencia de moviemntacao no exterior, e finalmente um segundo aviso acionado através detecao de movimento pelo sensor do interior do edificio.
+Para terminar a atividade, será realizado um penetration test ao sistema de alarme.**
 
 ## Project Tasks and Responsibilities
 - **Task 1:**
