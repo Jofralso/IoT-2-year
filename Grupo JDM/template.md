@@ -7,7 +7,7 @@
 - ...
 
 ## Project Overview
-Orquestracao de sensores (oculos com camara)
+O nosso projeto envolve sistemas de monotorização e alermistica em equipamentos agricola.
 
 ## Project Tasks and Responsibilities
 - **Task 1:**

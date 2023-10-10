@@ -7,7 +7,7 @@
 - [Rodrigo Cardoso](link_to_profile_4)
 
 ## Project Overview
-Este projeto consiste na elaboração de um trabalho de pentesting.
+Este projeto consiste na elaboração de um trabalho de envio de logs mais importantes e especifico capturados para o telemóvel.
 
 ## Project Tasks and Responsibilities
 - **Task 1:**
@@ -38,7 +38,7 @@ Este projeto consiste na elaboração de um trabalho de pentesting.
   - Presentation preparation
 
 ## Resources
-- [Resource 1 Title](link_to_resource_1)
+- ["https://www.youtube.com/watch?v=PqRVo2niA_8"](How to install Kali Linux on Raspeberry Pi)
 - [Resource 2 Title](link_to_resource_2)
 - [Resource 3 Title](link_to_resource_3)
 - ...
