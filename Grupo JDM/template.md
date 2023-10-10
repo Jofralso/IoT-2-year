@@ -7,7 +7,10 @@
 - ...
 
 ## Project Overview
-O nosso projeto envolve sistemas de monotorização e alermistica em equipamentos agricola.
+O nosso projeto envolve sistemas de monotorização e alermistica em equipamentos agricola;
+O sistema de monitoramento e controlo remoto é implementado usando conexão LoRa. Os sensores conectados ao ESP32 são usados para monitorar continuamente a terra agrícola e os dados são enviados para o dispositivo remoto usando o protocolo LoRa;
+Sensores de umidade do solo e bombas de água são controlados remotamente para um PC usando o protocolo MQTT. Este sistema pode ser usado para fornecer as variáveis ambientais necessárias para o cultivo. O fornecimento de um ambiente adequado também melhorará a produção de culturas;
+Sensores: Temp and humidity.
 
 ## Project Tasks and Responsibilities
 - **Task 1:**
