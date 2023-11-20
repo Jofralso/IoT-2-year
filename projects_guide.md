@@ -361,3 +361,71 @@ Perfeito! Vamos continuar com os últimos tópicos do plano.
 - **Recursos de Pesquisa e Aprendizagem:**
   - [Creating an Impactful Presentation](https://www.entrepreneur.com/article/303679)
   - [Effective Project Presentation Tips](https://www.projectsmart.co.uk/effective-project-presentations.php)
+
+
+
+Certainly! Adding poles and zeros to the graph requires plotting additional points on the complex plane. Poles are typically denoted by 'x' and zeros by 'o'. Here's the modified code for each example with poles (x) and zeros (o):
+
+### Example 1: Sequência Causal Exponencial Crescente
+
+```octave
+% Parâmetros
+a = 0.5;
+r = 1.5;
+
+% Criar matriz de valores Z
+[Re, Im] = meshgrid(linspace(-r, r, 400), linspace(-r, r, 400));
+Z = Re + 1i * Im;
+
+% Calcula a ROC
+ROC = abs(Z) > abs(a);
+
+% Adiciona zeros e polos
+zeros_poles = [0, 0; -a, 0];
+zeros_poles_conj = conj(zeros_poles);
+
+% Plot
+figure;
+imshow(ROC, 'XData', linspace(-r, r, 400), 'YData', linspace(-r, r, 400));
+hold on;
+plot(zeros_poles(:,1), zeros_poles(:,2), 'o', 'MarkerSize', 10, 'MarkerFaceColor', 'r', 'MarkerEdgeColor', 'r');
+plot(zeros_poles_conj(:,1), zeros_poles_conj(:,2), 'x', 'MarkerSize', 10, 'MarkerEdgeColor', 'b');
+title('ROC com Pólos (x) e Zeros (o)');
+xlabel('Re(z)');
+ylabel('Im(z)');
+grid on;
+legend('ROC', 'Zeros', 'Pólos');
+```
+
+### Example 2: Sequência Anti-Causal Exponencial Decrescente
+
+```octave
+% Parâmetros
+a = 0.5;
+r = 1.5;
+
+% Criar matriz de valores Z
+[Re, Im] = meshgrid(linspace(-r, r, 400), linspace(-r, r, 400));
+Z = Re + 1i * Im;
+
+% Calcula a ROC
+ROC = abs(Z) < abs(a);
+
+% Adiciona zeros e polos
+zeros_poles = [0, 0; -a, 0];
+zeros_poles_conj = conj(zeros_poles);
+
+% Plot
+figure;
+imshow(ROC, 'XData', linspace(-r, r, 400), 'YData', linspace(-r, r, 400));
+hold on;
+plot(zeros_poles(:,1), zeros_poles(:,2), 'o', 'MarkerSize', 10, 'MarkerFaceColor', 'r', 'MarkerEdgeColor', 'r');
+plot(zeros_poles_conj(:,1), zeros_poles_conj(:,2), 'x', 'MarkerSize', 10, 'MarkerEdgeColor', 'b');
+title('ROC com Pólos (x) e Zeros (o)');
+xlabel('Re(z)');
+ylabel('Im(z)');
+grid on;
+legend('ROC', 'Zeros', 'Pólos');
+```
+
+Repeat a similar modification for the other examples, using their specific pole and zero configurations. This way, you can visually represent poles and zeros on the ROC plots for each example.
